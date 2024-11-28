@@ -1,0 +1,145 @@
+filename;right_answer;possible_wrong_answers;number;variant;version;Langhout AoC_category;AoC_category
+4-clean-v0.png;0;"-1;-2";4;clean;v0;infix operator precedence;confusingboolwitharith
+4-clean-v1.png;6;"4;3";4;clean;v1;infix operator precedence;confusingboolwitharith
+4-clean-v2.png;7;"16;8";4;clean;v2;infix operator precedence;confusingboolwitharith
+4-obf-v0.png;0;"-1;-2";4;obf;v0;infix operator precedence;confusingboolwitharith
+4-obf-v1.png;6;"4;3";4;obf;v1;infix operator precedence;confusingboolwitharith
+4-obf-v2.png;7;"16;8";4;obf;v2;infix operator precedence;confusingboolwitharith
+5-clean-v0.png;true;false;5;clean;v0;infix operator precedence;confusingboolwitharith
+5-clean-v1.png;true;false;5;clean;v1;infix operator precedence;confusingboolwitharith
+5-clean-v2.png;false;true;5;clean;v2;infix operator precedence;confusingboolwitharith
+5-obf-v0.png;true;false;5;obf;v0;infix operator precedence;confusingboolwitharith
+5-obf-v1.png;true;false;5;obf;v1;infix operator precedence;confusingboolwitharith
+5-obf-v2.png;false;true;5;obf;v2;infix operator precedence;confusingboolwitharith
+6-clean-v0.png;true;false;6;clean;v0;infix operator precedence;confusingboolwitharith
+6-clean-v1.png;true;false;6;clean;v1;infix operator precedence;confusingboolwitharith
+6-clean-v2.png;true;false;6;clean;v2;infix operator precedence;confusingboolwitharith
+6-obf-v0.png;true;false;6;obf;v0;infix operator precedence;confusingboolwitharith
+6-obf-v1.png;true;false;6;obf;v1;infix operator precedence;confusingboolwitharith
+6-obf-v2.png;true;false;6;obf;v2;infix operator precedence;confusingboolwitharith
+7-clean-v0.png;5;"6;7";7;clean;v0;post increment decrement;prepostindecrement
+7-clean-v1.png;7;"8;9";7;clean;v1;post increment decrement;prepostindecrement
+7-clean-v2.png;8;"9;17";7;clean;v2;post increment decrement;prepostindecrement
+7-obf-v0.png;5;"6;7";7;obf;v0;post increment decrement;prepostindecrement
+7-obf-v1.png;7;"8;9";7;obf;v1;post increment decrement;prepostindecrement
+7-obf-v2.png;8;"9;17";7;obf;v2;post increment decrement;prepostindecrement
+8-clean-v0.png;true;false;8;clean;v0;post increment decrement;prepostindecrement
+8-clean-v1.png;false;true;8;clean;v1;post increment decrement;prepostindecrement
+8-clean-v2.png;false;true;8;clean;v2;post increment decrement;prepostindecrement
+8-obf-v0.png;true;false;8;obf;v0;post increment decrement;prepostindecrement
+8-obf-v1.png;false;true;8;obf;v1;post increment decrement;prepostindecrement
+8-obf-v2.png;false;true;8;obf;v2;post increment decrement;prepostindecrement
+9-clean-v0.png;false;true;9;clean;v0;post increment decrement;prepostindecrement
+9-clean-v1.png;true;false;9;clean;v1;post increment decrement;prepostindecrement
+9-clean-v2.png;false;true;9;clean;v2;post increment decrement;prepostindecrement
+9-obf-v0.png;false;true;9;obf;v0;post increment decrement;prepostindecrement
+9-obf-v1.png;true;false;9;obf;v1;post increment decrement;prepostindecrement
+9-obf-v2.png;false;true;9;obf;v2;post increment decrement;prepostindecrement
+10-clean-v0.png;1;"0;2";10;clean;v0;pre increment decrement;prepostindecrement
+10-clean-v1.png;-1;"0;5";10;clean;v1;pre increment decrement;prepostindecrement
+10-clean-v2.png;7;"6;4";10;clean;v2;pre increment decrement;prepostindecrement
+10-obf-v0.png;1;"0;2";10;obf;v0;pre increment decrement;prepostindecrement
+10-obf-v1.png;-1;"0;5";10;obf;v1;pre increment decrement;prepostindecrement
+10-obf-v2.png;7;"6;4";10;obf;v2;pre increment decrement;prepostindecrement
+11-clean-v0.png;true;false;11;clean;v0;pre increment decrement;prepostindecrement
+11-clean-v1.png;false;true;11;clean;v1;pre increment decrement;prepostindecrement
+11-clean-v2.png;false;true;11;clean;v2;pre increment decrement;prepostindecrement
+11-obf-v0.png;true;false;11;obf;v0;pre increment decrement;prepostindecrement
+11-obf-v1.png;false;true;11;obf;v1;pre increment decrement;prepostindecrement
+11-obf-v2.png;false;true;11;obf;v2;pre increment decrement;prepostindecrement
+12-clean-v0.png;7;"6;5";12;clean;v0;pre increment decrement;prepostindecrement
+12-clean-v1.png;0;"1;-1";12;clean;v1;pre increment decrement;prepostindecrement
+12-clean-v2.png;4;"3;2";12;clean;v2;pre increment decrement;prepostindecrement
+12-obf-v0.png;7;"6;5";12;obf;v0;pre increment decrement;prepostindecrement
+12-obf-v1.png;0;"1;-1";12;obf;v1;pre increment decrement;prepostindecrement
+12-obf-v2.png;4;"3;2";12;obf;v2;pre increment decrement;prepostindecrement
+13-clean-v0.png;5;"6;3";13;clean;v0;constant variables;confusingvariables
+13-clean-v1.png;11;"4;7";13;clean;v1;constant variables;confusingvariables
+13-clean-v2.png;5;"6;8";13;clean;v2;constant variables;confusingvariables
+13-obf-v0.png;5;"6;3";13;obf;v0;constant variables;confusingvariables
+13-obf-v1.png;11;"4;7";13;obf;v1;constant variables;confusingvariables
+13-obf-v2.png;5;"6;8";13;obf;v2;constant variables;confusingvariables
+14-clean-v0.png;4;"1;2";14;clean;v0;constant variables;confusingvariables
+14-clean-v1.png;12;"3;4";14;clean;v1;constant variables;confusingvariables
+14-clean-v2.png;27;"30;9";14;clean;v2;constant variables;confusingvariables
+14-obf-v0.png;4;"1;2";14;obf;v0;constant variables;confusingvariables
+14-obf-v1.png;12;"3;4";14;obf;v1;constant variables;confusingvariables
+14-obf-v2.png;27;"30;9";14;obf;v2;constant variables;confusingvariables
+15-clean-v0.png;9.0;"8.0;4.5";15;clean;v0;constant variables;confusingvariables
+15-clean-v1.png;13.0;"12.0;14.0";15;clean;v1;constant variables;confusingvariables
+15-clean-v2.png;62.0;"312.0;63.0";15;clean;v2;constant variables;confusingvariables
+15-obf-v0.png;9.0;"8.0;4.5";15;obf;v0;constant variables;confusingvariables
+15-obf-v1.png;13.0;"12.0;14.0";15;obf;v1;constant variables;confusingvariables
+15-obf-v2.png;62.0;"312.0;63.0";15;obf;v2;constant variables;confusingvariables
+16-clean-v0.png;7;"5;3";16;clean;v0;remove indentation atom;scopeindentation
+16-clean-v1.png;5;"4;6";16;clean;v1;remove indentation atom;scopeindentation
+16-clean-v2.png;6;"4;13";16;clean;v2;remove indentation atom;scopeindentation
+16-obf-v0.png;7;"5;3";16;obf;v0;remove indentation atom;scopeindentation
+16-obf-v1.png;5;"4;6";16;obf;v1;remove indentation atom;scopeindentation
+16-obf-v2.png;6;"4;13";16;obf;v2;remove indentation atom;scopeindentation
+17-clean-v0.png;6;"10;5";17;clean;v0;remove indentation atom;scopeindentation
+17-clean-v1.png;1;"3;4";17;clean;v1;remove indentation atom;scopeindentation
+17-clean-v2.png;9;"8;1";17;clean;v2;remove indentation atom;scopeindentation
+17-obf-v0.png;6;"10;5";17;obf;v0;remove indentation atom;scopeindentation
+17-obf-v1.png;1;"3;4";17;obf;v1;remove indentation atom;scopeindentation
+17-obf-v2.png;9;"8;1";17;obf;v2;remove indentation atom;scopeindentation
+18-clean-v0.png;2;"1;3";18;clean;v0;remove indentation atom;scopeindentation
+18-clean-v1.png;2;"5;7";18;clean;v1;remove indentation atom;scopeindentation
+18-clean-v2.png;6;"4;5";18;clean;v2;remove indentation atom;scopeindentation
+18-obf-v0.png;2;"1;3";18;obf;v0;remove indentation atom;scopeindentation
+18-obf-v1.png;2;"5;7";18;obf;v1;remove indentation atom;scopeindentation
+18-obf-v2.png;6;"4;5";18;obf;v2;remove indentation atom;scopeindentation
+30-clean-v0.png;true;false;30;clean;v0;arithmetic_as_logic;confusingboolwitharith
+30-clean-v1.png;true;false;30;clean;v1;arithmetic_as_logic;confusingboolwitharith
+30-clean-v2.png;false;true;30;clean;v2;arithmetic_as_logic;confusingboolwitharith
+30-obf-v0.png;true;false;30;obf;v0;arithmetic_as_logic;confusingboolwitharith
+30-obf-v1.png;true;false;30;obf;v1;arithmetic_as_logic;confusingboolwitharith
+30-obf-v2.png;false;true;30;obf;v2;arithmetic_as_logic;confusingboolwitharith
+49-clean-v0.png;2;"1;3";49;clean;v0;dead_unreachable_repeated;confusingvariables
+49-clean-v1.png;22;"10;40";49;clean;v1;dead_unreachable_repeated;confusingvariables
+49-clean-v2.png;42;"21;80";49;clean;v2;dead_unreachable_repeated;confusingvariables
+49-obf-v0.png;2;"1;3";49;obf;v0;dead_unreachable_repeated;confusingvariables
+49-obf-v1.png;22;"10;40";49;obf;v1;dead_unreachable_repeated;confusingvariables
+49-obf-v2.png;42;"21;80";49;obf;v2;dead_unreachable_repeated;confusingvariables
+54-clean-v0.png;0;"15;12";54;clean;v0;change_of_literal_encoding;implementationdetails
+54-clean-v1.png;9;"15;24";54;clean;v1;change_of_literal_encoding;implementationdetails
+54-clean-v2.png;0;"6;2";54;clean;v2;change_of_literal_encoding;implementationdetails
+54-obf-v0.png;0;"15;12";54;obf;v0;change_of_literal_encoding;implementationdetails
+54-obf-v1.png;9;"15;24";54;obf;v1;change_of_literal_encoding;implementationdetails
+54-obf-v2.png;0;"6;2";54;obf;v2;change_of_literal_encoding;implementationdetails
+57-clean-v0.png;8;"5;10";57;clean;v0;omitted_curly_braces;scopeindentation
+57-clean-v1.png;10;"13;6";57;clean;v1;omitted_curly_braces;scopeindentation
+57-clean-v2.png;21;"20;22";57;clean;v2;omitted_curly_braces;scopeindentation
+57-obf-v0.png;8;"5;10";57;obf;v0;omitted_curly_braces;scopeindentation
+57-obf-v1.png;10;"13;6";57;obf;v1;omitted_curly_braces;scopeindentation
+57-obf-v2.png;21;"20;22";57;obf;v2;omitted_curly_braces;scopeindentation
+60-clean-v0.png;32;"256;288";60;clean;v0;type_conversion;implementationdetails
+60-clean-v1.png;0;"2;512";60;clean;v1;type_conversion;implementationdetails
+60-clean-v2.png;40;"255;296";60;clean;v2;type_conversion;implementationdetails
+60-obf-v0.png;32;"256;288";60;obf;v0;type_conversion;implementationdetails
+60-obf-v1.png;0;"2;512";60;obf;v1;type_conversion;implementationdetails
+60-obf-v2.png;40;"255;296";60;obf;v2;type_conversion;implementationdetails
+61-clean-v0.png;4;"2;0";61;clean;v0;indentation;scopeindentation
+61-clean-v1.png;256;"128;42";61;clean;v1;indentation;scopeindentation
+61-clean-v2.png;66;"6;60";61;clean;v2;indentation;scopeindentation
+61-obf-v0.png;4;"2;0";61;obf;v0;indentation;scopeindentation
+61-obf-v1.png;256;"128;42";61;obf;v1;indentation;scopeindentation
+61-obf-v2.png;66;"6;60";61;obf;v2;indentation;scopeindentation
+62-clean-v0.png;3;"6;1";62;clean;v0;indentation;scopeindentation
+62-clean-v1.png;60;"30;84";62;clean;v1;indentation;scopeindentation
+62-clean-v2.png;50;"500;100";62;clean;v2;indentation;scopeindentation
+62-obf-v0.png;3;"6;1";62;obf;v0;indentation;scopeindentation
+62-obf-v1.png;60;"30;84";62;obf;v1;indentation;scopeindentation
+62-obf-v2.png;50;"500;100";62;obf;v2;indentation;scopeindentation
+63-clean-v0.png;9;"7;5";63;clean;v0;indentation;scopeindentation
+63-clean-v1.png;5;"10;12";63;clean;v1;indentation;scopeindentation
+63-clean-v2.png;80;"50;40";63;clean;v2;indentation;scopeindentation
+63-obf-v0.png;9;"7;5";63;obf;v0;indentation;scopeindentation
+63-obf-v1.png;5;"10;12";63;obf;v1;indentation;scopeindentation
+63-obf-v2.png;80;"50;40";63;obf;v2;indentation;scopeindentation
+-clean-v0.png;true;false;;clean;v0;implicit predicate;confusingboolwitharith
+-clean-v1.png;false;true;;clean;v1;implicit predicate;confusingboolwitharith
+-clean-v2.png;false;true;;clean;v2;implicit predicate;confusingboolwitharith
+-obf-v0.png;true;false;;obf;v0;implicit predicate;confusingboolwitharith
+-obf-v1.png;false;true;;obf;v1;implicit predicate;confusingboolwitharith
+-obf-v2.png;false;true;;obf;v2;implicit predicate;confusingboolwitharith

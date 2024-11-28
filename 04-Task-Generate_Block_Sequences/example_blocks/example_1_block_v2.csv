@@ -1,0 +1,25 @@
+Snippet Name;Image Path;Answer_1;Answer_2;Answer_3;Correct_Answer;Break Duration;Event Code
+10-obf-v2.png;v2/10-obf-v2.png;7;6;4;7;2;1
+11-obf-v2.png;v2/11-obf-v2.png;true;false;;true;2;1
+12-clean-v2.png;v2/12-clean-v2.png;4;3;2;4;2;2
+13-obf-v2.png;v2/13-obf-v2.png;5;6;8;5;2;1
+14-obf-v2.png;v2/14-obf-v2.png;27;30;9;27;2;1
+15-obf-v2.png;v2/15-obf-v2.png;62.0;60.0;63.0;62.0;2;1
+16-clean-v2.png;v2/16-clean-v2.png;6;4;13;6;2;2
+17-clean-v2.png;v2/17-clean-v2.png;9;8;1;9;2;2
+18-clean-v2.png;v2/18-clean-v2.png;6;4;5;6;2;2
+30-obf-v2.png;v2/30-obf-v2.png;false;true;;false;2;1
+49-clean-v2.png;v2/49-clean-v2.png;42;21;80;42;2;2
+4-clean-v2.png;v2/4-clean-v2.png;7;16;8;7;2;2
+7-obf-v2.png;v2/7-obf-v2.png;8;9;7;8;10;1
+54-clean-v2.png;v2/54-clean-v2.png;0;6;2;0;2;2
+57-clean-v2.png;v2/57-clean-v2.png;21;20;22;21;2;2
+5-obf-v2.png;v2/5-obf-v2.png;false;true;;false;10;1
+60-clean-v2.png;v2/60-clean-v2.png;40;255;296;40;2;2
+61-obf-v2.png;v2/61-obf-v2.png;66;6;60;66;2;1
+62-obf-v2.png;v2/62-obf-v2.png;50;500;100;50;2;1
+63-clean-v2.png;v2/63-clean-v2.png;80;50;40;80;2;2
+6-obf-v2.png;v2/6-obf-v2.png;true;false;;true;2;1
+8-obf-v2.png;v2/8-obf-v2.png;false;true;;false;2;1
+9-clean-v2.png;v2/9-clean-v2.png;false;true;;false;2;2
+-clean-v2.png;v2/-clean-v2.png;false;true;;false;2;2

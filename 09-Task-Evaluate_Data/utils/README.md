@@ -1,0 +1,77 @@
+[utils](Main_Study_Part/09-Task-Evaluate_Data/utils/) contains the python package with all functions. It contains settings and helpers files, where the settings contain constants and helpers contain methods. From the "subpackages", they contain constants / functions for
+- [aoi settings](Main_Study_Part/09-Task-Evaluate_Data/utils/aoi_settings.py): aoi category definition, color mapping, aoi position markers, aoi padding
+- aoi helpers
+  - detecting aoi markers from image
+  - comparing aoi definitions per snippet pair between conditions (sanity check that identical aoi categories defined in pair)
+  - get optimal aoi (smallest possible aoi) from multiple categories for snippet pair
+  - position check to aoi for fixations for comb approach
+- [behavioral settings](Main_Study_Part/09-Task-Evaluate_Data/utils/behavioral_settings.py): lower boundary for correctness, size of Tukey interval (*sigma)
+- [behavioral helpers](Main_Study_Part/09-Task-Evaluate_Data/utils/behavioral_helpers.py): 
+  - extracting behavioral data from hdf file
+  - extracting all behavioral information from event log data within hdf data
+  - combine data and prepare for EEG synchronization
+  - manage and check trials
+  - check overall trial data for exclusion (correctness and duration)
+  -  metrics and visualization to aggregate behavioral results per group and condition, contrast results
+- [eeg settings](Main_Study_Part/09-Task-Evaluate_Data/utils/eeg_settings.py): frequency, channels, ica files, stimlus definition EEG/ERP and FRP marker, ERP & permutation test constants
+- [eeg helpers](Main_Study_Part/09-Task-Evaluate_Data/utils/eeg_helpers.py): 
+  - get eeg files
+  - anonymize data, load eeg data, check impedance, save as BV
+  - get annotation data, crop
+  - check ICA reasoning files
+  - assign trials from behavioral data to EEG for synchronization
+  - extract eeg segment per trial
+  - check artefacts via voltage constraints
+  - erp (frp) calculation including eeg loading, epoch creation, plotting
+  - plot distribution of frp-related metrics
+  - load erp (frp) averages / epochs
+  - calculate frp marker position and add frp marker
+- [file settings](Main_Study_Part/09-Task-Evaluate_Data/utils/file_settings.py): columns of files (snippet description, gaze, behavioral, fixation, eeg annotation, hdf file) 
+- [file helpers](Main_Study_Part/09-Task-Evaluate_Data/utils/file_helpers.py):
+  - determine participants for file type, get file paths of raw data for participant
+  - manage exclusion for preprocessing
+- [I2MC settings](Main_Study_Part/09-Task-Evaluate_Data/utils/I2MC_settings.py): settings for I2MC algorithm
+- [I2MC helpers](Main_Study_Part/09-Task-Evaluate_Data/utils/I2MC_helpers.py): functions implementing I2MC algorithm
+- [json helpers](Main_Study_Part/09-Task-Evaluate_Data/utils/json_helpers.py): 
+  - EncoderClass for encoding non-native types into json
+  - file buffer for perm test results
+- [LMEM settings](Main_Study_Part/09-Task-Evaluate_Data/utils/LMEM_settings.py): constants for LMEM family and error constants, conversion of R types to JSON
+- [LMEM helpers (jupyter notebook)](Main_Study_Part/09-Task-Evaluate_Data/utils/LMEM_helpers.ipynb): function to create LMEM via python call from jupyter notebook
+- [path settings](Main_Study_Part/09-Task-Evaluate_Data/utils/path_settings.py):
+  - base paths for raw, eval, screenshot folders etc.
+  - constant file paths
+- [path helpers](Main_Study_Part/09-Task-Evaluate_Data/utils/path_helpers.py): methods to generate file paths with given paramaters, extract all file paths of a given structure 
+- [snippet settings](Main_Study_Part/09-Task-Evaluate_Data/utils/snippet_settings.py): variants, condition, snippet numbers, condition coloring, default correctness and rating, agg functions
+- [snippet helpers](Main_Study_Part/09-Task-Evaluate_Data/utils/snippet_helpers.py): snippet base (without variant), version, variant and number extractor, get snippet of other variant within pair
+- [statistics settings](Main_Study_Part/09-Task-Evaluate_Data/utils/statistics_settings.py):
+  - alternative hypotheses, test categorization and function assignment, effect size and strength, permutation test constants
+- [statistics helpers](Main_Study_Part/09-Task-Evaluate_Data/utils/statistics_helpers.py):
+  - subjectwise average calculation and statistical testing
+  - normal distribution test, statistiacl test wrapper
+  - effect size calculation
+  - statistical test for average amplitude in eeg window
+  - cluster permutation tests, max step calculation, cluster significance analysis, permutation count calculation, plotting
+  - test statistical distribution for frp-related statistics
+- [textconstants](Main_Study_Part/09-Task-Evaluate_Data/utils/textconstants.py): all constants required in multiple files (e.g., PARTICIPANT, SNIPPET, ...)
+- [utils](Main_Study_Part/09-Task-Evaluate_Data/utils/utils.py): imports all other files as interface
+- [validation settings](Main_Study_Part/09-Task-Evaluate_Data/utils/validation_settings.py) and [validation helpers](Main_Study_Part/09-Task-Evaluate_Data/utils/validation_helpers.py): constants and functions to extract eye gaze from validation and calibration if given. 
+- [visual settings](Main_Study_Part/09-Task-Evaluate_Data/utils/visual_settings.py):
+  - screen size, pixels, psychopy screen definition
+  - fixation radius in pixels and plot size
+  - constants for fixation exclusion due to na values
+  - eye-tracking frequency
+  - manual accuracy evaluation and fixation correction algorithm
+  - fixation selection algorithms
+- [visual helpers](Main_Study_Part/09-Task-Evaluate_Data/utils/visual_helpers.py):
+  - get eye-tracking data from hdf file
+  - anonymize
+  - get and prepare relevant eye-events (including transformation from psychopy to pixel coordinates)
+  - check gaze data for na values
+  - calculate fixations, eliminate fixations stemming from fixation cross view
+  - plot accuracy images for fixation cross and snippet view
+  - perform fixation correction, add x offset
+  - calculate and plot refixation
+  - manage manual accuracy evaluation, including verification of structure and answer possibilities, snippets to rework, outlier and offset specification
+  - calculate statistics
+  - identify special fixation for FRP calculation, implement fixation selection algorithms
+  - create scanpath image
