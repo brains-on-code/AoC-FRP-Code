@@ -1,0 +1,2126 @@
+{
+    "-clean-v0": {
+        "NEXP": {
+            "bottom": 413,
+            "left": 743,
+            "right": 794,
+            "top": 377
+        },
+        "STAT": {
+            "bottom": 422,
+            "left": 555,
+            "right": 981,
+            "top": 369
+        },
+        "WEXP": {
+            "bottom": 417,
+            "left": 739,
+            "right": 976,
+            "top": 373
+        }
+    },
+    "-clean-v1": {
+        "NEXP": {
+            "bottom": 413,
+            "left": 743,
+            "right": 794,
+            "top": 377
+        },
+        "STAT": {
+            "bottom": 422,
+            "left": 555,
+            "right": 981,
+            "top": 369
+        },
+        "WEXP": {
+            "bottom": 417,
+            "left": 739,
+            "right": 976,
+            "top": 373
+        }
+    },
+    "-clean-v2": {
+        "NEXP": {
+            "bottom": 413,
+            "left": 743,
+            "right": 794,
+            "top": 377
+        },
+        "STAT": {
+            "bottom": 422,
+            "left": 555,
+            "right": 981,
+            "top": 369
+        },
+        "WEXP": {
+            "bottom": 417,
+            "left": 739,
+            "right": 976,
+            "top": 373
+        }
+    },
+    "-obf-v0": {
+        "NEXP": {
+            "bottom": 413,
+            "left": 781,
+            "right": 845,
+            "top": 377
+        },
+        "STAT": {
+            "bottom": 422,
+            "left": 555,
+            "right": 1071,
+            "top": 369
+        },
+        "WEXP": {
+            "bottom": 417,
+            "left": 739,
+            "right": 1066,
+            "top": 373
+        }
+    },
+    "-obf-v1": {
+        "NEXP": {
+            "bottom": 413,
+            "left": 781,
+            "right": 845,
+            "top": 377
+        },
+        "STAT": {
+            "bottom": 422,
+            "left": 555,
+            "right": 1083,
+            "top": 369
+        },
+        "WEXP": {
+            "bottom": 417,
+            "left": 739,
+            "right": 1078,
+            "top": 373
+        }
+    },
+    "-obf-v2": {
+        "NEXP": {
+            "bottom": 413,
+            "left": 781,
+            "right": 845,
+            "top": 377
+        },
+        "STAT": {
+            "bottom": 422,
+            "left": 555,
+            "right": 1083,
+            "top": 369
+        },
+        "WEXP": {
+            "bottom": 417,
+            "left": 739,
+            "right": 1078,
+            "top": 373
+        }
+    },
+    "10-clean-v0": {
+        "NEXP": {
+            "bottom": 410,
+            "left": 692,
+            "right": 731,
+            "top": 380
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 555,
+            "right": 587,
+            "top": 334
+        },
+        "WEXP": {
+            "bottom": 414,
+            "left": 688,
+            "right": 811,
+            "top": 376
+        }
+    },
+    "10-clean-v1": {
+        "NEXP": {
+            "bottom": 410,
+            "left": 768,
+            "right": 807,
+            "top": 380
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 555,
+            "right": 587,
+            "top": 334
+        },
+        "WEXP": {
+            "bottom": 414,
+            "left": 688,
+            "right": 811,
+            "top": 376
+        }
+    },
+    "10-clean-v2": {
+        "NEXP": {
+            "bottom": 410,
+            "left": 692,
+            "right": 731,
+            "top": 380
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 555,
+            "right": 587,
+            "top": 334
+        },
+        "WEXP": {
+            "bottom": 414,
+            "left": 688,
+            "right": 811,
+            "top": 376
+        }
+    },
+    "10-obf-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 692,
+            "right": 756,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 696,
+            "right": 727,
+            "top": 334
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 836,
+            "top": 323
+        }
+    },
+    "10-obf-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 768,
+            "right": 833,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 772,
+            "right": 804,
+            "top": 334
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 836,
+            "top": 323
+        }
+    },
+    "10-obf-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 692,
+            "right": 756,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 696,
+            "right": 727,
+            "top": 334
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 836,
+            "top": 323
+        }
+    },
+    "11-clean-v0": {
+        "NEXP": {
+            "bottom": 410,
+            "left": 756,
+            "right": 794,
+            "top": 380
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 555,
+            "right": 587,
+            "top": 338
+        },
+        "WEXP": {
+            "bottom": 417,
+            "left": 739,
+            "right": 900,
+            "top": 373
+        }
+    },
+    "11-clean-v1": {
+        "NEXP": {
+            "bottom": 410,
+            "left": 756,
+            "right": 794,
+            "top": 380
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 555,
+            "right": 587,
+            "top": 338
+        },
+        "WEXP": {
+            "bottom": 417,
+            "left": 739,
+            "right": 900,
+            "top": 373
+        }
+    },
+    "11-clean-v2": {
+        "NEXP": {
+            "bottom": 410,
+            "left": 756,
+            "right": 794,
+            "top": 380
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 555,
+            "right": 587,
+            "top": 338
+        },
+        "WEXP": {
+            "bottom": 417,
+            "left": 739,
+            "right": 887,
+            "top": 373
+        }
+    },
+    "11-obf-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 820,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 759,
+            "right": 791,
+            "top": 338
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 925,
+            "top": 320
+        }
+    },
+    "11-obf-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 820,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 759,
+            "right": 791,
+            "top": 338
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 925,
+            "top": 320
+        }
+    },
+    "11-obf-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 820,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 759,
+            "right": 791,
+            "top": 338
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 913,
+            "top": 320
+        }
+    },
+    "12-clean-v0": {
+        "NEXP": {
+            "bottom": 410,
+            "left": 768,
+            "right": 807,
+            "top": 380
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 555,
+            "right": 587,
+            "top": 338
+        },
+        "WEXP": {
+            "bottom": 414,
+            "left": 688,
+            "right": 811,
+            "top": 376
+        }
+    },
+    "12-clean-v1": {
+        "NEXP": {
+            "bottom": 410,
+            "left": 692,
+            "right": 731,
+            "top": 380
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 555,
+            "right": 587,
+            "top": 338
+        },
+        "WEXP": {
+            "bottom": 414,
+            "left": 688,
+            "right": 811,
+            "top": 376
+        }
+    },
+    "12-clean-v2": {
+        "NEXP": {
+            "bottom": 410,
+            "left": 768,
+            "right": 807,
+            "top": 380
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 555,
+            "right": 587,
+            "top": 338
+        },
+        "WEXP": {
+            "bottom": 414,
+            "left": 688,
+            "right": 811,
+            "top": 376
+        }
+    },
+    "12-obf-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 768,
+            "right": 833,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 772,
+            "right": 804,
+            "top": 338
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 836,
+            "top": 323
+        }
+    },
+    "12-obf-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 692,
+            "right": 756,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 696,
+            "right": 753,
+            "top": 330
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 836,
+            "top": 323
+        }
+    },
+    "12-obf-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 768,
+            "right": 833,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 772,
+            "right": 804,
+            "top": 338
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 836,
+            "top": 323
+        }
+    },
+    "13-clean-v0": {
+        "NEXP": {
+            "bottom": 302,
+            "left": 693,
+            "right": 716,
+            "top": 275
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 688,
+            "right": 798,
+            "top": 270
+        }
+    },
+    "13-clean-v1": {
+        "NEXP": {
+            "bottom": 302,
+            "left": 770,
+            "right": 792,
+            "top": 275
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 688,
+            "right": 798,
+            "top": 270
+        }
+    },
+    "13-clean-v2": {
+        "NEXP": {
+            "bottom": 302,
+            "left": 693,
+            "right": 716,
+            "top": 275
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 688,
+            "right": 798,
+            "top": 270
+        }
+    },
+    "13-obf-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 692,
+            "right": 731,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 811,
+            "top": 323
+        }
+    },
+    "13-obf-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 768,
+            "right": 807,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 811,
+            "top": 323
+        }
+    },
+    "13-obf-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 692,
+            "right": 731,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 811,
+            "top": 323
+        }
+    },
+    "14-clean-v0": {
+        "NEXP": {
+            "bottom": 302,
+            "left": 770,
+            "right": 792,
+            "top": 275
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 688,
+            "right": 798,
+            "top": 270
+        }
+    },
+    "14-clean-v1": {
+        "NEXP": {
+            "bottom": 302,
+            "left": 693,
+            "right": 716,
+            "top": 275
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 688,
+            "right": 798,
+            "top": 270
+        }
+    },
+    "14-clean-v2": {
+        "NEXP": {
+            "bottom": 302,
+            "left": 693,
+            "right": 716,
+            "top": 275
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 688,
+            "right": 798,
+            "top": 270
+        }
+    },
+    "14-obf-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 768,
+            "right": 807,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 811,
+            "top": 323
+        }
+    },
+    "14-obf-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 692,
+            "right": 731,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 811,
+            "top": 323
+        }
+    },
+    "14-obf-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 692,
+            "right": 731,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 811,
+            "top": 323
+        }
+    },
+    "15-clean-v0": {
+        "NEXP": {
+            "bottom": 302,
+            "left": 833,
+            "right": 856,
+            "top": 275
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 727,
+            "right": 862,
+            "top": 270
+        }
+    },
+    "15-clean-v1": {
+        "NEXP": {
+            "bottom": 302,
+            "left": 846,
+            "right": 869,
+            "top": 275
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 727,
+            "right": 874,
+            "top": 270
+        }
+    },
+    "15-clean-v2": {
+        "NEXP": {
+            "bottom": 302,
+            "left": 833,
+            "right": 869,
+            "top": 275
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 727,
+            "right": 874,
+            "top": 270
+        }
+    },
+    "15-obf-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 832,
+            "right": 871,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 727,
+            "right": 874,
+            "top": 323
+        }
+    },
+    "15-obf-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 845,
+            "right": 884,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 727,
+            "right": 887,
+            "top": 323
+        }
+    },
+    "15-obf-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 832,
+            "right": 871,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 727,
+            "right": 874,
+            "top": 323
+        }
+    },
+    "16-clean-v0": {
+        "BLOCK": {
+            "bottom": 692,
+            "left": 579,
+            "right": 830,
+            "top": 582
+        }
+    },
+    "16-clean-v1": {
+        "BLOCK": {
+            "bottom": 692,
+            "left": 579,
+            "right": 830,
+            "top": 582
+        }
+    },
+    "16-clean-v2": {
+        "BLOCK": {
+            "bottom": 692,
+            "left": 579,
+            "right": 830,
+            "top": 582
+        }
+    },
+    "16-obf-v0": {
+        "BLOCK": {
+            "bottom": 692,
+            "left": 555,
+            "right": 792,
+            "top": 582
+        }
+    },
+    "16-obf-v1": {
+        "BLOCK": {
+            "bottom": 692,
+            "left": 555,
+            "right": 792,
+            "top": 582
+        }
+    },
+    "16-obf-v2": {
+        "BLOCK": {
+            "bottom": 692,
+            "left": 555,
+            "right": 792,
+            "top": 582
+        }
+    },
+    "17-clean-v0": {
+        "STAT": {
+            "bottom": 528,
+            "left": 555,
+            "right": 623,
+            "top": 479
+        }
+    },
+    "17-clean-v1": {
+        "STAT": {
+            "bottom": 528,
+            "left": 555,
+            "right": 623,
+            "top": 479
+        }
+    },
+    "17-clean-v2": {
+        "STAT": {
+            "bottom": 528,
+            "left": 555,
+            "right": 623,
+            "top": 479
+        }
+    },
+    "17-obf-v0": {
+        "STAT": {
+            "bottom": 528,
+            "left": 583,
+            "right": 661,
+            "top": 479
+        }
+    },
+    "17-obf-v1": {
+        "STAT": {
+            "bottom": 528,
+            "left": 583,
+            "right": 661,
+            "top": 479
+        }
+    },
+    "17-obf-v2": {
+        "STAT": {
+            "bottom": 528,
+            "left": 583,
+            "right": 661,
+            "top": 479
+        }
+    },
+    "18-clean-v0": {
+        "STAT": {
+            "bottom": 475,
+            "left": 583,
+            "right": 712,
+            "top": 426
+        }
+    },
+    "18-clean-v1": {
+        "STAT": {
+            "bottom": 475,
+            "left": 583,
+            "right": 712,
+            "top": 426
+        }
+    },
+    "18-clean-v2": {
+        "STAT": {
+            "bottom": 475,
+            "left": 583,
+            "right": 712,
+            "top": 426
+        }
+    },
+    "18-obf-v0": {
+        "STAT": {
+            "bottom": 475,
+            "left": 555,
+            "right": 674,
+            "top": 426
+        }
+    },
+    "18-obf-v1": {
+        "STAT": {
+            "bottom": 475,
+            "left": 555,
+            "right": 674,
+            "top": 426
+        }
+    },
+    "18-obf-v2": {
+        "STAT": {
+            "bottom": 475,
+            "left": 555,
+            "right": 674,
+            "top": 426
+        }
+    },
+    "30-clean-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 794,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 913,
+            "top": 320
+        }
+    },
+    "30-clean-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 794,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 900,
+            "top": 320
+        }
+    },
+    "30-clean-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 794,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 913,
+            "top": 320
+        }
+    },
+    "30-obf-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 871,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 976,
+            "top": 320
+        }
+    },
+    "30-obf-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 871,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 976,
+            "top": 320
+        }
+    },
+    "30-obf-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 871,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 989,
+            "top": 320
+        }
+    },
+    "4-clean-v0": {
+        "NEXP": {
+            "bottom": 360,
+            "left": 705,
+            "right": 833,
+            "top": 324
+        },
+        "OP": {
+            "bottom": 356,
+            "left": 759,
+            "right": 778,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 625,
+            "right": 836,
+            "top": 320
+        }
+    },
+    "4-clean-v1": {
+        "NEXP": {
+            "bottom": 360,
+            "left": 705,
+            "right": 833,
+            "top": 324
+        },
+        "OP": {
+            "bottom": 356,
+            "left": 759,
+            "right": 778,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 625,
+            "right": 836,
+            "top": 320
+        }
+    },
+    "4-clean-v2": {
+        "NEXP": {
+            "bottom": 360,
+            "left": 705,
+            "right": 833,
+            "top": 324
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 759,
+            "right": 778,
+            "top": 333
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 625,
+            "right": 836,
+            "top": 320
+        }
+    },
+    "4-obf-v0": {
+        "NEXP": {
+            "bottom": 359,
+            "left": 705,
+            "right": 807,
+            "top": 324
+        },
+        "OP": {
+            "bottom": 356,
+            "left": 747,
+            "right": 765,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 363,
+            "left": 625,
+            "right": 811,
+            "top": 320
+        }
+    },
+    "4-obf-v1": {
+        "NEXP": {
+            "bottom": 359,
+            "left": 705,
+            "right": 807,
+            "top": 324
+        },
+        "OP": {
+            "bottom": 356,
+            "left": 747,
+            "right": 765,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 363,
+            "left": 625,
+            "right": 811,
+            "top": 320
+        }
+    },
+    "4-obf-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 705,
+            "right": 807,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 747,
+            "right": 765,
+            "top": 333
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 625,
+            "right": 811,
+            "top": 323
+        }
+    },
+    "49-clean-v0": {
+        "BLOCK": {
+            "bottom": 373,
+            "left": 555,
+            "right": 679,
+            "top": 314
+        },
+        "STAT": {
+            "bottom": 368,
+            "left": 555,
+            "right": 674,
+            "top": 319
+        }
+    },
+    "49-clean-v1": {
+        "BLOCK": {
+            "bottom": 373,
+            "left": 555,
+            "right": 692,
+            "top": 314
+        },
+        "STAT": {
+            "bottom": 368,
+            "left": 555,
+            "right": 687,
+            "top": 319
+        }
+    },
+    "49-clean-v2": {
+        "BLOCK": {
+            "bottom": 373,
+            "left": 555,
+            "right": 692,
+            "top": 314
+        },
+        "STAT": {
+            "bottom": 368,
+            "left": 555,
+            "right": 687,
+            "top": 319
+        }
+    },
+    "49-obf-v0": {
+        "BLOCK": {
+            "bottom": 425,
+            "left": 555,
+            "right": 678,
+            "top": 315
+        },
+        "STAT": {
+            "bottom": 419,
+            "left": 556,
+            "right": 672,
+            "top": 374
+        }
+    },
+    "49-obf-v1": {
+        "BLOCK": {
+            "bottom": 425,
+            "left": 555,
+            "right": 690,
+            "top": 315
+        },
+        "STAT": {
+            "bottom": 419,
+            "left": 556,
+            "right": 685,
+            "top": 374
+        }
+    },
+    "49-obf-v2": {
+        "BLOCK": {
+            "bottom": 425,
+            "left": 555,
+            "right": 690,
+            "top": 315
+        },
+        "STAT": {
+            "bottom": 419,
+            "left": 556,
+            "right": 685,
+            "top": 374
+        }
+    },
+    "5-clean-v0": {
+        "NEXP": {
+            "bottom": 305,
+            "left": 757,
+            "right": 1047,
+            "top": 272
+        },
+        "OP": {
+            "bottom": 300,
+            "left": 1014,
+            "right": 1046,
+            "top": 277
+        },
+        "WEXP": {
+            "bottom": 311,
+            "left": 739,
+            "right": 1359,
+            "top": 270
+        }
+    },
+    "5-clean-v1": {
+        "NEXP": {
+            "bottom": 308,
+            "left": 1011,
+            "right": 1355,
+            "top": 270
+        },
+        "OP": {
+            "bottom": 302,
+            "left": 1014,
+            "right": 1046,
+            "top": 274
+        },
+        "WEXP": {
+            "bottom": 311,
+            "left": 740,
+            "right": 1358,
+            "top": 270
+        }
+    },
+    "5-clean-v2": {
+        "NEXP": {
+            "bottom": 305,
+            "left": 757,
+            "right": 1047,
+            "top": 272
+        },
+        "OP": {
+            "bottom": 300,
+            "left": 1014,
+            "right": 1046,
+            "top": 277
+        },
+        "WEXP": {
+            "bottom": 311,
+            "left": 739,
+            "right": 1359,
+            "top": 270
+        }
+    },
+    "5-obf-v0": {
+        "NEXP": {
+            "bottom": 305,
+            "left": 757,
+            "right": 1073,
+            "top": 272
+        },
+        "OP": {
+            "bottom": 300,
+            "left": 1040,
+            "right": 1071,
+            "top": 277
+        },
+        "WEXP": {
+            "bottom": 311,
+            "left": 739,
+            "right": 1346,
+            "top": 270
+        }
+    },
+    "5-obf-v1": {
+        "NEXP": {
+            "bottom": 308,
+            "left": 1036,
+            "right": 1342,
+            "top": 270
+        },
+        "OP": {
+            "bottom": 302,
+            "left": 1040,
+            "right": 1071,
+            "top": 274
+        },
+        "WEXP": {
+            "bottom": 311,
+            "left": 740,
+            "right": 1346,
+            "top": 270
+        }
+    },
+    "5-obf-v2": {
+        "NEXP": {
+            "bottom": 305,
+            "left": 757,
+            "right": 1060,
+            "top": 272
+        },
+        "OP": {
+            "bottom": 300,
+            "left": 1027,
+            "right": 1058,
+            "top": 277
+        },
+        "WEXP": {
+            "bottom": 311,
+            "left": 739,
+            "right": 1333,
+            "top": 270
+        }
+    },
+    "54-clean-v0": {
+        "OP": {
+            "bottom": 300,
+            "left": 798,
+            "right": 816,
+            "top": 277
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 688,
+            "right": 925,
+            "top": 270
+        }
+    },
+    "54-clean-v1": {
+        "OP": {
+            "bottom": 300,
+            "left": 798,
+            "right": 816,
+            "top": 277
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 688,
+            "right": 925,
+            "top": 270
+        }
+    },
+    "54-clean-v2": {
+        "OP": {
+            "bottom": 300,
+            "left": 798,
+            "right": 816,
+            "top": 277
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 688,
+            "right": 925,
+            "top": 270
+        }
+    },
+    "54-obf-v0": {
+        "OP": {
+            "bottom": 300,
+            "left": 747,
+            "right": 765,
+            "top": 277
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 688,
+            "right": 811,
+            "top": 270
+        }
+    },
+    "54-obf-v1": {
+        "OP": {
+            "bottom": 300,
+            "left": 747,
+            "right": 765,
+            "top": 277
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 688,
+            "right": 823,
+            "top": 270
+        }
+    },
+    "54-obf-v2": {
+        "OP": {
+            "bottom": 300,
+            "left": 734,
+            "right": 753,
+            "top": 277
+        },
+        "WEXP": {
+            "bottom": 308,
+            "left": 688,
+            "right": 798,
+            "top": 270
+        }
+    },
+    "57-clean-v0": {
+        "STAT": {
+            "bottom": 368,
+            "left": 1055,
+            "right": 1209,
+            "top": 316
+        }
+    },
+    "57-clean-v1": {
+        "STAT": {
+            "bottom": 368,
+            "left": 1055,
+            "right": 1209,
+            "top": 316
+        }
+    },
+    "57-clean-v2": {
+        "STAT": {
+            "bottom": 368,
+            "left": 1055,
+            "right": 1209,
+            "top": 316
+        }
+    },
+    "57-obf-v0": {
+        "STAT": {
+            "bottom": 368,
+            "left": 1055,
+            "right": 1133,
+            "top": 319
+        }
+    },
+    "57-obf-v1": {
+        "STAT": {
+            "bottom": 368,
+            "left": 1055,
+            "right": 1133,
+            "top": 319
+        }
+    },
+    "57-obf-v2": {
+        "STAT": {
+            "bottom": 368,
+            "left": 1055,
+            "right": 1133,
+            "top": 319
+        }
+    },
+    "6-clean-v0": {
+        "NEXP": {
+            "bottom": 466,
+            "left": 934,
+            "right": 1024,
+            "top": 430
+        },
+        "OP": {
+            "bottom": 462,
+            "left": 938,
+            "right": 969,
+            "top": 434
+        },
+        "WEXP": {
+            "bottom": 470,
+            "left": 739,
+            "right": 1040,
+            "top": 426
+        }
+    },
+    "6-clean-v1": {
+        "NEXP": {
+            "bottom": 464,
+            "left": 934,
+            "right": 1024,
+            "top": 433
+        },
+        "OP": {
+            "bottom": 460,
+            "left": 938,
+            "right": 969,
+            "top": 437
+        },
+        "WEXP": {
+            "bottom": 470,
+            "left": 739,
+            "right": 1040,
+            "top": 426
+        }
+    },
+    "6-clean-v2": {
+        "NEXP": {
+            "bottom": 466,
+            "left": 947,
+            "right": 1037,
+            "top": 430
+        },
+        "OP": {
+            "bottom": 462,
+            "left": 950,
+            "right": 982,
+            "top": 434
+        },
+        "WEXP": {
+            "bottom": 470,
+            "left": 739,
+            "right": 1053,
+            "top": 426
+        }
+    },
+    "6-obf-v0": {
+        "NEXP": {
+            "bottom": 466,
+            "left": 909,
+            "right": 998,
+            "top": 430
+        },
+        "OP": {
+            "bottom": 462,
+            "left": 912,
+            "right": 944,
+            "top": 434
+        },
+        "WEXP": {
+            "bottom": 470,
+            "left": 739,
+            "right": 1015,
+            "top": 426
+        }
+    },
+    "6-obf-v1": {
+        "NEXP": {
+            "bottom": 464,
+            "left": 909,
+            "right": 998,
+            "top": 433
+        },
+        "OP": {
+            "bottom": 460,
+            "left": 912,
+            "right": 944,
+            "top": 437
+        },
+        "WEXP": {
+            "bottom": 470,
+            "left": 739,
+            "right": 1015,
+            "top": 426
+        }
+    },
+    "6-obf-v2": {
+        "NEXP": {
+            "bottom": 466,
+            "left": 921,
+            "right": 1011,
+            "top": 430
+        },
+        "OP": {
+            "bottom": 462,
+            "left": 925,
+            "right": 957,
+            "top": 434
+        },
+        "WEXP": {
+            "bottom": 470,
+            "left": 739,
+            "right": 1027,
+            "top": 426
+        }
+    },
+    "60-clean-v0": {
+        "NEXP": {
+            "bottom": 360,
+            "left": 807,
+            "right": 973,
+            "top": 324
+        },
+        "WEXP": {
+            "bottom": 365,
+            "left": 701,
+            "right": 976,
+            "top": 320
+        }
+    },
+    "60-clean-v1": {
+        "NEXP": {
+            "bottom": 360,
+            "left": 807,
+            "right": 973,
+            "top": 324
+        },
+        "WEXP": {
+            "bottom": 365,
+            "left": 701,
+            "right": 976,
+            "top": 320
+        }
+    },
+    "60-clean-v2": {
+        "NEXP": {
+            "bottom": 360,
+            "left": 807,
+            "right": 973,
+            "top": 324
+        },
+        "WEXP": {
+            "bottom": 365,
+            "left": 701,
+            "right": 976,
+            "top": 320
+        }
+    },
+    "60-obf-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 807,
+            "right": 845,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 365,
+            "left": 701,
+            "right": 849,
+            "top": 320
+        }
+    },
+    "60-obf-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 807,
+            "right": 845,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 365,
+            "left": 701,
+            "right": 849,
+            "top": 320
+        }
+    },
+    "60-obf-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 807,
+            "right": 845,
+            "top": 327
+        },
+        "WEXP": {
+            "bottom": 365,
+            "left": 701,
+            "right": 849,
+            "top": 320
+        }
+    },
+    "61-clean-v0": {
+        "STAT": {
+            "bottom": 475,
+            "left": 555,
+            "right": 674,
+            "top": 426
+        }
+    },
+    "61-clean-v1": {
+        "STAT": {
+            "bottom": 475,
+            "left": 555,
+            "right": 700,
+            "top": 426
+        }
+    },
+    "61-clean-v2": {
+        "STAT": {
+            "bottom": 475,
+            "left": 555,
+            "right": 687,
+            "top": 426
+        }
+    },
+    "61-obf-v0": {
+        "STAT": {
+            "bottom": 475,
+            "left": 583,
+            "right": 712,
+            "top": 426
+        }
+    },
+    "61-obf-v1": {
+        "STAT": {
+            "bottom": 475,
+            "left": 583,
+            "right": 738,
+            "top": 426
+        }
+    },
+    "61-obf-v2": {
+        "STAT": {
+            "bottom": 475,
+            "left": 583,
+            "right": 725,
+            "top": 426
+        }
+    },
+    "62-clean-v0": {
+        "STAT": {
+            "bottom": 581,
+            "left": 555,
+            "right": 750,
+            "top": 532
+        }
+    },
+    "62-clean-v1": {
+        "STAT": {
+            "bottom": 581,
+            "left": 555,
+            "right": 750,
+            "top": 532
+        }
+    },
+    "62-clean-v2": {
+        "STAT": {
+            "bottom": 581,
+            "left": 555,
+            "right": 750,
+            "top": 532
+        }
+    },
+    "62-obf-v0": {
+        "STAT": {
+            "bottom": 581,
+            "left": 583,
+            "right": 777,
+            "top": 532
+        }
+    },
+    "62-obf-v1": {
+        "STAT": {
+            "bottom": 581,
+            "left": 583,
+            "right": 789,
+            "top": 532
+        }
+    },
+    "62-obf-v2": {
+        "STAT": {
+            "bottom": 581,
+            "left": 583,
+            "right": 789,
+            "top": 532
+        }
+    },
+    "63-clean-v0": {
+        "BLOCK": {
+            "bottom": 743,
+            "left": 579,
+            "right": 816,
+            "top": 579
+        }
+    },
+    "63-clean-v1": {
+        "BLOCK": {
+            "bottom": 743,
+            "left": 579,
+            "right": 828,
+            "top": 579
+        }
+    },
+    "63-clean-v2": {
+        "BLOCK": {
+            "bottom": 743,
+            "left": 579,
+            "right": 828,
+            "top": 579
+        }
+    },
+    "63-obf-v0": {
+        "BLOCK": {
+            "bottom": 743,
+            "left": 555,
+            "right": 792,
+            "top": 579
+        }
+    },
+    "63-obf-v1": {
+        "BLOCK": {
+            "bottom": 743,
+            "left": 555,
+            "right": 792,
+            "top": 579
+        }
+    },
+    "63-obf-v2": {
+        "BLOCK": {
+            "bottom": 743,
+            "left": 555,
+            "right": 805,
+            "top": 579
+        }
+    },
+    "7-clean-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 768,
+            "right": 807,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 407,
+            "left": 581,
+            "right": 612,
+            "top": 387
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 811,
+            "top": 323
+        }
+    },
+    "7-clean-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 692,
+            "right": 731,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 407,
+            "left": 581,
+            "right": 612,
+            "top": 387
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 811,
+            "top": 323
+        }
+    },
+    "7-clean-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 768,
+            "right": 807,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 407,
+            "left": 581,
+            "right": 612,
+            "top": 387
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 811,
+            "top": 323
+        }
+    },
+    "7-obf-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 768,
+            "right": 833,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 798,
+            "right": 829,
+            "top": 334
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 836,
+            "top": 323
+        }
+    },
+    "7-obf-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 692,
+            "right": 756,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 721,
+            "right": 753,
+            "top": 334
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 836,
+            "top": 323
+        }
+    },
+    "7-obf-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 768,
+            "right": 833,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 798,
+            "right": 829,
+            "top": 334
+        },
+        "WEXP": {
+            "bottom": 361,
+            "left": 688,
+            "right": 836,
+            "top": 323
+        }
+    },
+    "8-clean-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 794,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 407,
+            "left": 581,
+            "right": 612,
+            "top": 387
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 900,
+            "top": 320
+        }
+    },
+    "8-clean-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 794,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 407,
+            "left": 581,
+            "right": 612,
+            "top": 387
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 887,
+            "top": 320
+        }
+    },
+    "8-clean-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 794,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 407,
+            "left": 581,
+            "right": 612,
+            "top": 387
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 900,
+            "top": 320
+        }
+    },
+    "8-obf-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 820,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 785,
+            "right": 816,
+            "top": 334
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 925,
+            "top": 320
+        }
+    },
+    "8-obf-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 820,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 785,
+            "right": 816,
+            "top": 334
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 913,
+            "top": 320
+        }
+    },
+    "8-obf-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 820,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 785,
+            "right": 816,
+            "top": 334
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 925,
+            "top": 320
+        }
+    },
+    "9-clean-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 794,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 407,
+            "left": 581,
+            "right": 612,
+            "top": 391
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 900,
+            "top": 320
+        }
+    },
+    "9-clean-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 794,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 407,
+            "left": 581,
+            "right": 612,
+            "top": 391
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 887,
+            "top": 320
+        }
+    },
+    "9-clean-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 794,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 407,
+            "left": 581,
+            "right": 612,
+            "top": 391
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 900,
+            "top": 320
+        }
+    },
+    "9-obf-v0": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 820,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 785,
+            "right": 816,
+            "top": 338
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 925,
+            "top": 320
+        }
+    },
+    "9-obf-v1": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 820,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 785,
+            "right": 816,
+            "top": 338
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 913,
+            "top": 320
+        }
+    },
+    "9-obf-v2": {
+        "NEXP": {
+            "bottom": 357,
+            "left": 756,
+            "right": 820,
+            "top": 327
+        },
+        "OP": {
+            "bottom": 353,
+            "left": 785,
+            "right": 816,
+            "top": 338
+        },
+        "WEXP": {
+            "bottom": 364,
+            "left": 739,
+            "right": 925,
+            "top": 320
+        }
+    }
+}

@@ -502,7 +502,7 @@ def get_erp_status_path(erp_frp: bool | str, snippet_group: str, description: st
     assert (erp_frp is True or erp_frp in FIXATION_SELECTION_ALGORITHMS), erp_frp
     folder = EVAL_PATH / EEG / \
         (EEG_ERP if erp_frp is True else (f'{EEG_FRP}_{FIXATION_SELECTION_SHORT_VERSION[erp_frp]}'+(f'_{snippet_group}' if snippet_group != SNIPPET_GROUP_ALL else ''))) / \
-        'nave'/participant
+        'epochs'/participant
     path = folder/f'{description}_{participant}_exclusions.json'
     path.parent.mkdir(exist_ok=True, parents=True)
     return path
@@ -520,7 +520,7 @@ def get_erp_average_path(erp_frp: bool | str, snippet_group: str, description: s
     assert (erp_frp is True or erp_frp in FIXATION_SELECTION_ALGORITHMS), erp_frp
     folder = EVAL_PATH / EEG / \
         (EEG_ERP if erp_frp is True else (f'{EEG_FRP}_{FIXATION_SELECTION_SHORT_VERSION[erp_frp]}'+(f'_{snippet_group}' if snippet_group != SNIPPET_GROUP_ALL else ''))) / \
-        'subjectwise'/participant
+        'epochs'/participant
     path = folder/('.' if plot_type is None else 'plot') / (f'{description}_{"grand" if participant == TOTAL else participant}_average_{condition}' +
                                                             ('_ave.fif' if plot_type is None else f'_{plot_type}.png'))
     path.parent.mkdir(exist_ok=True, parents=True)
@@ -552,7 +552,7 @@ def get_erp_nave_path(erp_frp: bool | str, snippet_group: str, description: str)
     '''
     assert (erp_frp is True or erp_frp in FIXATION_SELECTION_ALGORITHMS), erp_frp
     path = EVAL_PATH / EEG /  \
-        (EEG_ERP if erp_frp is True else (f'{EEG_FRP}_{FIXATION_SELECTION_SHORT_VERSION[erp_frp]}')+(f'_{snippet_group}' if snippet_group != SNIPPET_GROUP_ALL else '')) / 'nave' /\
+        (EEG_ERP if erp_frp is True else (f'{EEG_FRP}_{FIXATION_SELECTION_SHORT_VERSION[erp_frp]}')+(f'_{snippet_group}' if snippet_group != SNIPPET_GROUP_ALL else '')) / 'epochs' /\
         f'{description}_nave.csv'
     path.parent.mkdir(exist_ok=True, parents=True)
     return path
@@ -611,7 +611,7 @@ def get_all_erp_nave_paths(erp_frp: bool) -> list[Path]:
     returns: the paths of the erp average file, using the participant path if specified
     '''
     paths = (
-        EVAL_PATH / EEG).glob(f'{EEG_ERP if erp_frp else f"{EEG_FRP}_*"}/nave/*_nave.csv')
+        EVAL_PATH / EEG).glob(f'{EEG_ERP if erp_frp else f"{EEG_FRP}_*"}/epochs/*_nave.csv')
     return sorted(paths)
 
 
