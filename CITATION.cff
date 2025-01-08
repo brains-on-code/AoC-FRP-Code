@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+title: >-
+  Unexpected but informative: What fixation-related
+  potentials tell us about the processing of confusing
+  program code
+message: >-
+  If you use these scripts, please cite it using the metadata
+  from this file.
+date-released: 2024-11-28
+url: "https://github.com/brains-on-code/AoC-FRP-Code/"
+authors:
+  - given-names: Annabelle
+    family-names: Bergum
+  - given-names: Anna-Maria
+    family-names: Maurer
+  - given-names: Norman
+    family-names: Peitek
+  - given-names: Regine
+    family-names: Bader
+  - given-names: Axel
+    family-names: Mecklinger
+  - given-names: Vera
+    family-names: Demberg
+  - given-names: Janet
+    family-names: Siegmund
+  - given-names: Sven
+    family-names: Apel
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2412.10099
+    description: Preprint
+preferred-citation:
+  authors:
+  - given-names: Annabelle
+    family-names: Bergum
+  - given-names: Anna-Maria
+    family-names: Maurer
+  - given-names: Norman
+    family-names: Peitek
+  - given-names: Regine
+    family-names: Bader
+  - given-names: Axel
+    family-names: Mecklinger
+  - given-names: Vera
+    family-names: Demberg
+  - given-names: Janet
+    family-names: Siegmund
+  - given-names: Sven
+    family-names: Apel
+  doi: "10.48550/arXiv.2412.10099"
+  title: "Unexpected but informative: What fixation-related potentials tell us about the processing of confusing program code"
+license: CC-BY-4.0
