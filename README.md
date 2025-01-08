@@ -1,4 +1,4 @@
-# Unexpected but informative: What fixation-related potentials tell us about the processing of ambiguous program code
+# Unexpected but informative: What fixation-related potentials tell us about the processing of confusing program code
 
 ## Concept
 
@@ -103,13 +103,13 @@ Some terms used in the paper have another correspondence in the code analysis du
 - Duration -> Comprehension Time
 - Correctness -> Answer Correctness
 - Rating -> Subjective Difficulty Rating
-- Clean -> Ambiguous
-- Obf -> Unambiguous
+- Clean -> Clean
+- Obf -> Confusing
 - Block_No -> BlockNo
 - In_Block_No -> ItemOrder
 
 Clarification of further terms:
-- Conditions = Ambiguous, Unambiguous
+- Conditions = Confusing, Clean
 - Snippets: one program code stimulus, also referred to as (code) snippet
 - Snippet pair: two corresponding snippets differing only in the condition 
 - Snippet number: the snippet number as assigned by Langhout et Aniche, stands for 3 snippet pairs with differ only in their version number (v0,v1,v2)
